@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 public class ForEachLoop {
-public static void main(String[] args) throws IOException, InterruptedException
+public static void main(String[] args)
 	{
 		WebDriver driver = new EdgeDriver();
 		
